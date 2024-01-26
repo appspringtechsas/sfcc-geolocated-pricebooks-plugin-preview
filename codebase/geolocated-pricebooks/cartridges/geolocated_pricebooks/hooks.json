@@ -1,0 +1,12 @@
+{
+    "hooks": [
+        {
+            "name": "dw.ocapi.shop.product_search.beforeGET",
+            "script": "./cartridge/scripts/hooks/geolocatedPricebooksHook.js"
+        },
+        {
+            "name": "dw.ocapi.shop.product.beforeGET",
+            "script": "./cartridge/scripts/hooks/geolocatedPricebooksHook.js"
+        }
+    ]
+}
