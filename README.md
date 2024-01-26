@@ -1,6 +1,6 @@
 # Salesforce Commerce Cloud (SFCC) Geolocated Pricebooks Plugin
 
-Note: This repository is a preview of the SFCC Geolocated Pricebooks Plugin. The purpose of this repository is to allow future customers to see the file structure of the package and to access the README and see how the package works and what features provides. It is important to mention that Geolocated Pricebooks Plugin for PWA Kit uses **template extensibility** so this preview is only meant to show the file structure and the files that were modified when building the package. File structure and files preview for Geolocated Pricebooks Plugin for SFRA is also available. The complete package contains the full structure of both PWA Kit and SFRA code. 
+**Note:** This repository is a preview of the SFCC Geolocated Pricebooks Plugin. The purpose of this repository is to allow future customers to see the file structure of the package and to access the README and see how the package works and what features provides. It is important to mention that Geolocated Pricebooks Plugin for PWA Kit uses **template extensibility** so this preview is only meant to show the file structure and the files that were modified when building the package. File structure and files preview for Geolocated Pricebooks Plugin for SFRA is also available. The complete package contains the full structure of both PWA Kit and SFRA code. 
 
 The files available in this preview are:
 
